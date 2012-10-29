@@ -14,7 +14,7 @@ Get involved
 
 ::
 
-    $ git clone git@github.com:/your-name:june
+    $ git clone https://github.com/your-name/june.git
     $ cd june
     $ git checkout flask
 
